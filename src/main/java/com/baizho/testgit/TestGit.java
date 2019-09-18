@@ -10,6 +10,7 @@ public class TestGit {
         System.out.println("test 5");
         System.out.println("test 6");
         System.out.println("888888");
+        System.out.println("77777");
 
     }
 }
